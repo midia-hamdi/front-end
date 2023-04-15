@@ -1,0 +1,20 @@
+.icon {
+    color: #0d6efd;
+    background-color: #d8d6e7;
+    display: inline-flex;
+    padding: 11px;
+    border-radius: 13px;
+}
+
+.card-primary{
+    background: #212529;
+    color: white !important;
+}
+
+.main{
+    background-image: radial-gradient(60% 80% at 30% 55% , rgb(21, 25, 29)0%, rgb(21, 25, 29)100%);
+     /* border: 2px solid rgb(34, 255, 0);  */
+     height: 90vh;
+  }
+
+  
